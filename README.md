@@ -6,7 +6,8 @@ its a simple python script runner exacly every time you decide
 
 ### 1- Open the python file with a text editor
 
-### 2-you will find three variables h m and s 
+### 2- You will find three variables h m and s
+
 thoes three variables represent hour minute and second of when the script
 will execute everyday
 
